@@ -23,6 +23,8 @@ class GlobalLocations {
         locations = decoded.cast<Map<String, dynamic>>();
       }
     } catch (e) {
+
+
       print('Error loading locations: $e');
       locations = [];
     }
