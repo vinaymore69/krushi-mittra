@@ -7,6 +7,8 @@ import '../sign_in.dart';
 import '../chat.dart';
 import '../notification.dart';
 import '../profile.dart';
+import 'health_pages/mental_health_support.dart';
+import 'health_pages/nutrition_corner.dart';
 
 class HealthWellnessPage extends StatefulWidget {
   const HealthWellnessPage({super.key});
@@ -106,10 +108,10 @@ class _HealthWellnessPageState extends State<HealthWellnessPage> {
         page = const FarmClinicPage();
         break;
       case 'Mental Health Support':
-        page = const FarmClinicPage();
+        page = const MentalHealthSupportPage();
         break;
       case 'Nutrition Corner':
-        page = const FarmClinicPage();
+        page = const NutritionCornerPage();
         break;
       case 'Find Nearby Clinics':
         page = const FarmClinicPage();
@@ -261,7 +263,7 @@ class _HealthWellnessPageState extends State<HealthWellnessPage> {
                           _buildFeatureCard(
                             icon: Icons.psychology,
                             title: "Mental Health Support",
-                            description: "Resources for managing stress, connectin of support groups, and mosl mental wbening",
+                            description: "Resources for managing stress, connection of support groups, and mosl mental wbening",
                             color: const Color(0xFFE67E22),
                             featureKey: 'Mental Health Support',
                           ),
@@ -269,7 +271,7 @@ class _HealthWellnessPageState extends State<HealthWellnessPage> {
                           _buildFeatureCard(
                             icon: Icons.restaurant,
                             title: "Nutrition Corner",
-                            description: "Dietary recommendations anutrition tips to maintain energy for demangy for demaning farm work.",
+                            description: "Dietary recommendations of nutrition tips to maintain energy for demangy for demaning farm work.",
                             color: const Color(0xFFE67E22),
                             featureKey: 'Nutrition Corner',
                           ),
