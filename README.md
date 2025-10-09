@@ -18,6 +18,14 @@
 
 ---
 
+## 🎥 Project Overview Video
+
+Watch the video below to learn more about this project:
+
+[![Watch the video](https://img.youtube.com/vi/rSOBN1rhO4s/maxresdefault.jpg)](https://youtu.be/rSOBN1rhO4s?si=1lZ7D0oA4QclfRip)
+
+
+
 ## 📖 Table of Contents
 
 - [🌟 Overview](#-overview)
