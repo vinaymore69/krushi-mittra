@@ -19,4 +19,4 @@ Examples of unacceptable behavior include:
 Project maintainers have the right to remove, edit, or reject contributions that
 do not align with this Code of Conduct.
 
-For any concerns, contact **vinaymore69@gmail.com**.
+For any concerns, contact **vinaymore0110@gmail.com**.
