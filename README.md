@@ -42,7 +42,7 @@
 - [📊 Implementation Approach](#-implementation-approach)
 - [🔮 Future Enhancements](#-future-enhancements)
 - [🤝 Contributing](#-contributing)
-- [📄 License](license.txt)
+- [📄 License](LICENCE.md)
 
 ---
 
