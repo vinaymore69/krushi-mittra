@@ -20,7 +20,7 @@
 
 ## Video Tutorial
 
-[![Video Title](https://img.youtube.com/vi/rSOBN1rhO4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=rSOBN1rhO4s)
+[![Video Title](https://yt3.googleusercontent.com/eWXreF9fiJ1GbGwhca0ZO5EXM9HlolDL7LtYm3-abEhF4MBc6Onflm49uf3udvmNXLEDkdyIAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/watch?v=rSOBN1rhO4s)
 
 *Click the image above to watch the video*
 
