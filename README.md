@@ -18,12 +18,11 @@
 
 ---
 
-## 🎥 Project Overview Video
+# Video Krushi Mittra
 
-Watch the video below to learn more about this project:
+## My YouTube Video
 
-[![Watch the video](https://img.youtube.com/vi/rSOBN1rhO4s/maxresdefault.jpg)](https://youtu.be/rSOBN1rhO4s?si=1lZ7D0oA4QclfRip)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rSOBN1rhO4s?si=dYBW-45fV_Phr96M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 📖 Table of Contents
